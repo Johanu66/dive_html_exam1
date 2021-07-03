@@ -1,0 +1,39 @@
+.content tr{
+    line-height: 7rem;
+}
+.content th{
+    text-align: right;
+    width: 150px;
+}
+.content td{
+    width: 480px;
+    text-align: left;
+}
+.small_input{
+    width: 100%;
+    height: 25px;
+    border: solid 1px #111;
+}
+.big_input{
+    width: 100%;
+    height: 50px;
+    border: solid 1px #111;
+}
+.content td div{
+    margin-left: 10px;
+}
+.btn_send{
+    padding: 10px;
+    color: white;
+    font-size: 3rem;
+    background-color: #008B8B;
+}
+.btn_send:hover{
+    opacity: 0.5;
+}
+.content form{
+    text-align: center;
+}
+.content table{
+    margin-bottom: 20px;
+}
